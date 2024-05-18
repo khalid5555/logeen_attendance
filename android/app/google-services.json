@@ -1,0 +1,25 @@
+{
+    "project_info": {
+        "project_number": "1026687232466",
+        "project_id": "logeen-attendace",
+        "storage_bucket": "logeen-attendace.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:1026687232466:android:5c97b392b7d7f5f37d000b",
+            "android_client_info": {
+                "package_name": "com.logeen.logeen_attendance"
+            }
+        },
+        "oauth_client": [],
+        "api_key": [{
+            "current_key": "AIzaSyBsFEqi3tsvMLfTum_P4NF2fLbyyj3kZrM"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": []
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
