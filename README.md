@@ -3,14 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+## This program records the attendance and departure of the company’s employees on the company’s geographical location only, and the registration is only activated on the website 👌📱
 
-This project is a starting point for a Flutter application.
+https://github.com/khalid5555/logeen_attendance/assets/68198261/d9445853-c405-4e19-840c-9912fcaa8bcb
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
